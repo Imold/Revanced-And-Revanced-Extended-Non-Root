@@ -21,4 +21,4 @@ runs:
         name: Revanced & Revanced Extended
         tag: all
         bodyFile: ${{ github.workspace }}-CHANGELOG.txt
-        allowUpdates: true
+        allowUpdates: false
